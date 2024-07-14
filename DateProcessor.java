@@ -1,9 +1,8 @@
 import java.time.format.DateTimeFormatter;
-import java.io.Serializable;
 import java.time.LocalDate;
 import java.util.ArrayList;
 
-public class DateProcessor implements Serializable {
+public class DateProcessor {
 	String startDate;
 	String endDate;
 	ArrayList<String> dateList;
