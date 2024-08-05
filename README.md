@@ -5,7 +5,7 @@ https://github.com/user-attachments/assets/fd776911-8a69-4792-8759-2c1c8e83210a
 ![image](https://github.com/user-attachments/assets/255e904d-d4ac-4dac-a7f0-1490dc86ae97)
 
 # Table break down
-1. ```Date`` column: The date when the data was recorded, extracted from the file name
+1. ```Date``` column: The date when the data was recorded, extracted from the file name
 2. ```Contract``` column: Extract from the data source, represents the contract id of the user
 3. ```Television Duration``` column: Total time spent by 1 user in the time range watching television channels
 4. ```Film Duration``` column: Total time spent by 1 user in the time range watching film channels
